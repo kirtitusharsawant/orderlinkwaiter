@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>790628540474-as740n5943ahq956qgkg827jg6g7uv9n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.790628540474-as740n5943ahq956qgkg827jg6g7uv9n</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDw7QRcN7pQ877s2HtAbzCjPyVL_qwEl3c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>790628540474</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.waiterbookadmin</string>
+	<key>PROJECT_ID</key>
+	<string>waiterbook</string>
+	<key>STORAGE_BUCKET</key>
+	<string>waiterbook.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:790628540474:ios:a4c2a76001bf2bf31a9503</string>
+</dict>
+</plist>

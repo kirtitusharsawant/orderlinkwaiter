@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "790628540474",
+    "project_id": "waiterbook",
+    "storage_bucket": "waiterbook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790628540474:android:f66283a8fa7db61e1a9503",
+        "android_client_info": {
+          "package_name": "com.example.waiterbookadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790628540474-st0b3macpkqqju9op7ncdtkiph7m2f2b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.waiterbookadmin",
+            "certificate_hash": "6cfc85f9f5174b44fee3da512bd8a26fae0a636f"
+          }
+        },
+        {
+          "client_id": "790628540474-85deu7cbgigke5keocej9nqcrikcrvn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOyQ5Wl-_j8qdVu04eYNt2lEizJxq7BlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790628540474-85deu7cbgigke5keocej9nqcrikcrvn0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "790628540474-as740n5943ahq956qgkg827jg6g7uv9n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.waiterbookadmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790628540474:android:0db07074072a333a1a9503",
+        "android_client_info": {
+          "package_name": "com.xceliasoftwares.orderlink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790628540474-p3f8nq026do0v93afbq3k3gb3o5n47il.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xceliasoftwares.orderlink",
+            "certificate_hash": "6cfc85f9f5174b44fee3da512bd8a26fae0a636f"
+          }
+        },
+        {
+          "client_id": "790628540474-85deu7cbgigke5keocej9nqcrikcrvn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOyQ5Wl-_j8qdVu04eYNt2lEizJxq7BlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790628540474-85deu7cbgigke5keocej9nqcrikcrvn0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "790628540474-as740n5943ahq956qgkg827jg6g7uv9n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.waiterbookadmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790628540474:android:4f2cf19e2e6970331a9503",
+        "android_client_info": {
+          "package_name": "com.xceliasoftwares.orderlinkwaiter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790628540474-44voc5b8oe1m4ggp09mj9osldktbr755.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xceliasoftwares.orderlinkwaiter",
+            "certificate_hash": "1cf5d7a28bfbec1e6fbd33caabc1e4d85f8e050d"
+          }
+        },
+        {
+          "client_id": "790628540474-85deu7cbgigke5keocej9nqcrikcrvn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOyQ5Wl-_j8qdVu04eYNt2lEizJxq7BlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790628540474-85deu7cbgigke5keocej9nqcrikcrvn0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "790628540474-as740n5943ahq956qgkg827jg6g7uv9n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.waiterbookadmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
